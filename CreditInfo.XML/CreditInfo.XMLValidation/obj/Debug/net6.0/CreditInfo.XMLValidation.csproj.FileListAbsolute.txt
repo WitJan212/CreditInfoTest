@@ -1,0 +1,15 @@
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/bin/Debug/net6.0/CreditInfo.XMLValidation
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/bin/Debug/net6.0/CreditInfo.XMLValidation.deps.json
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/bin/Debug/net6.0/CreditInfo.XMLValidation.runtimeconfig.json
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/bin/Debug/net6.0/CreditInfo.XMLValidation.dll
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/bin/Debug/net6.0/CreditInfo.XMLValidation.pdb
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/obj/Debug/net6.0/CreditInfo.XMLValidation.csproj.AssemblyReference.cache
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/obj/Debug/net6.0/CreditInfo.XMLValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/obj/Debug/net6.0/CreditInfo.XMLValidation.AssemblyInfoInputs.cache
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/obj/Debug/net6.0/CreditInfo.XMLValidation.AssemblyInfo.cs
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/obj/Debug/net6.0/CreditInfo.XMLValidation.csproj.CoreCompileInputs.cache
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/obj/Debug/net6.0/CreditInfo.XMLValidation.dll
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/obj/Debug/net6.0/refint/CreditInfo.XMLValidation.dll
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/obj/Debug/net6.0/CreditInfo.XMLValidation.pdb
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/obj/Debug/net6.0/CreditInfo.XMLValidation.genruntimeconfig.cache
+/Users/vitmichalec/Dev/CreditInfoExam/CreditInfo.XML/CreditInfo.XMLValidation/obj/Debug/net6.0/ref/CreditInfo.XMLValidation.dll
